@@ -1,8 +1,6 @@
 # Summary
 
 [Introduction to AI](./index.md)
-
-[All Notebooks](./notebooks.md)
 <!-- - [Week 1,2 - Data, Numpy, Matrices, Error/Loss functions and Regression](./week1_2/index.md) -->
 [Week 1 - WIP](./week1/index.md)
 <!-- - [Week 3,4 - Non-Linear Regression, OLS, and Log Loss](./week3_4/index.md) -->
