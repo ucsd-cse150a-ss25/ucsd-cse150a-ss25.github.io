@@ -20,7 +20,7 @@ This web page serves as the main source of announcements and resources for the c
 ## Basics
 
 - Lecture: [Center Hall 119](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday, Wednesday, Friday 8:00a-8:50a 
-- Discussion: [Center Hall 115](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Friday 8:00p-8:50p
+- Discussion: [Center Hall 115](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday 8:00p-8:50p
 - “Skill Assessments” Exams: Flexible scheduling in weeks 3, 5, 7 and 9 
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
@@ -125,7 +125,7 @@ Skill assessments will take place in AP&M, **unless you have an AFA letter**. Yo
 
 Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center and not prairietest.com. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.
 
-### Group Projet
+### Group Project
 The group project is milestone based and will consist of several milestones. Work will be uploaded on GitHub and submissions will be done on Gradescope. Details TBA!
 
 ## Grading
