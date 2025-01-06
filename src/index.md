@@ -45,7 +45,7 @@ This web page serves as the main source of announcements and resources for the c
 - Textbook/readings: There's no official textbook, but we will link to different online resources and books for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required:
   - **Optional Readings**
   - The course does not closely follow a particular text. Nevertheless, the following texts (though not required) may be useful as general references:
-  - Artificial Intelligence: A Modern Approach (Russell & Norvig, 2020)
+  - [Artificial Intelligence: A Modern Approach (Russell & Norvig, 2020)](http://aima.cs.berkeley.edu/)
   - Probabilistic Machine Learning (Murphy, 2021)
   - Mathematics for Machine Learning (Deisenroth, Faisal & Ong, 2020)
   - Reinforcement Learning: An Introduction (Sutton & Barto, 2018)
