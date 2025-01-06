@@ -63,7 +63,7 @@ There are several components to the course:
 
 ### Discussion
 
-The course's discussion component meets for an hour every Friday. In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
+The course's discussion component meets for an hour every Monday. In each discsussion you'll switch between working on your own, working in pairs, and participating in group discussions about your approach, lessons learned, programming problems, and so on. Please bring your laptop to code and follow along.
 
 The discussion sessions will be led by TAs and tutors, who will note your
 participation in these discussions for credit. At the end of the day you will submit your work to show participation.
@@ -119,7 +119,7 @@ This is also the only late policy for homework. Unsubmitted reports are initiall
 Several times during the quarter, you will complete a _skill assessment_
 -- this course's version of exams. You'll be given a jupyter notebook environment to practice on in advance. The practice problems will not be similar to the first skill assessment and will only be there to demonstrate the structure and environment.
 
-On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 2 and continue for weeks 4, 6 and 8. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. Only one paper notesheet front and back will be allowed.
+On each you will have an autograder with 4 or more questions and 40 minutes to complete each assessment. The skill assessments will start on week 3 and continue for weeks 5, 7 and 9. You will be able to choose a scheduled time each week. On the day of your assessment you must bring a valid picture ID. Only one paper notesheet front and back will be allowed.
 
 Skill assessments will take place in AP&M, **unless you have an AFA letter**. You must schedule a time to take your exams in advance. To do this, visit prairietest.com and log in with your UCSD-associated Google account. From there, you will be able to see the exams available for reservation.
 
