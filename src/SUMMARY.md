@@ -4,8 +4,7 @@
 
 [All Notebooks](./notebooks.md)
 <!-- - [Week 1,2 - Data, Numpy, Matrices, Error/Loss functions and Regression](./week1_2/index.md) -->
-[Week 1 Lectures - WIP](./week1/index.md)
-[Week 1 Discussion - Getting Started](./week1/discussion.md)
+[Week 1 - WIP](./week1/index.md)
 <!-- - [Week 3,4 - Non-Linear Regression, OLS, and Log Loss](./week3_4/index.md) -->
 <!-- - [Week 5,6 - Classification: SVMs, Naive Bayes, KNN and Decision Trees](./week5_6/index.md) -->
 <!-- - [Week 7,8 - Classification & Intro to Unsupervised Learning: Clustering & Dimensional Reduction](./week7_8/index.md) -->
