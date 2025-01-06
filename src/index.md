@@ -30,10 +30,26 @@ This web page serves as the main source of announcements and resources for the c
 - General Class Q&A Forum: Discord link on Canvas!
 - Code Q&A Forum: [Piazza](https://piazza.com/)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
-- Textbook/readings: There's no official textbook, but we will link to
-  different online resources for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required:
-  - The first is available as an e-book through the library website; the rest are on reserve at Geisel:
-    - TBA
+
+- Learning Objectives and Outcomes
+  - Upon successful completion of this course, students will be able to:
+  - Describe the structure and behavior of different probabilistic models including Bayes Nets, Hidden Markov Models, Markov Decision Processes, and other similar models.
+  - Perform inference on those models, to derive various quantities from the model parameters.
+  - Prove mathematical relationships between probabilities arising from these models.
+  - Perform learning on those models, to estimate the various parameters from data.
+  - Apply probabilistic models to solve real-world problems.
+  - Design specific models for specific AI tasks.
+  - Implement core algorithms of different models.
+  - Describe how agents learn from data using maximum likelihood learning and reinforcement learning.
+  - Be able to code and implement these models
+- Textbook/readings: There's no official textbook, but we will link to different online resources and books for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required:
+  - **Optional Readings**
+  - The course does not closely follow a particular text. Nevertheless, the following texts (though not required) may be useful as general references:
+  - Artificial Intelligence: A Modern Approach (Russell & Norvig, 2020)
+  - Probabilistic Machine Learning (Murphy, 2021)
+  - Mathematics for Machine Learning (Deisenroth, Faisal & Ong, 2020)
+  - Reinforcement Learning: An Introduction (Sutton & Barto, 2018)
+  - Pattern Recognition and Machine Learning (Bishop, 2006)
   - Free: [MIT Missing Semester](https://missing.csail.mit.edu/)
 - Data Repositories:
   - [UCI Machine Learning Data Repo](https://archive.ics.uci.edu/ml/index.php)
