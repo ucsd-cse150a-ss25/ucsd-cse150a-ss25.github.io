@@ -42,14 +42,12 @@ This web page serves as the main source of announcements and resources for the c
   - Implement core algorithms of different models.
   - Describe how agents learn from data using maximum likelihood learning and reinforcement learning.
   - Be able to code and implement these models
-- Textbook/readings: There's no official textbook, but we will link to different online resources and books for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required:
-  - **Optional Readings**
-  - The course does not closely follow a particular text. Nevertheless, the following texts (though not required) may be useful as general references:
+- Textbook/readings: There's no official textbook, but we will link to different online resources and books for you to read to supplement lecture. There are a few good general overall resources if you want others to peruse, but these aren't required (**Optional Readings**):
   - [Artificial Intelligence: A Modern Approach (Russell & Norvig, 2020)](http://aima.cs.berkeley.edu/)
-  - Probabilistic Machine Learning (Murphy, 2021)
-  - Mathematics for Machine Learning (Deisenroth, Faisal & Ong, 2020)
-  - Reinforcement Learning: An Introduction (Sutton & Barto, 2018)
-  - Pattern Recognition and Machine Learning (Bishop, 2006)
+  - [Probabilistic Machine Learning (Murphy, 2021)](https://probml.github.io/pml-book/)
+  - [Mathematics for Machine Learning (Deisenroth, Faisal & Ong, 2020)](https://mml-book.github.io/)
+  - [Reinforcement Learning: An Introduction (Sutton & Barto, 2018)](http://incompleteideas.net/book/the-book-2nd.html)
+  - [Pattern Recognition and Machine Learning (Bishop, 2006)](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
   - Free: [MIT Missing Semester](https://missing.csail.mit.edu/)
 - Data Repositories:
   - [UCI Machine Learning Data Repo](https://archive.ics.uci.edu/ml/index.php)
@@ -169,7 +167,7 @@ The weighted breakdown of each category is as follows:
 | --- | --- |
 Participation | 10%
 Quizzes | 10%
-Homeworks | 25%
+Homeworks | 20%
 Group Project | 25%
 Skill Assessments | 35%
 
