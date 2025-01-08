@@ -19,3 +19,4 @@ Note that for this week’s discussion **only**, we have extended the deadline t
 - [NetworkX Tutorial Notebook](https://colab.research.google.com/drive/1EicgkS9kM680RTI7I7XEi0An-7yDaZyz?usp=sharing)
 - [Python Intro Notebook](https://colab.research.google.com/drive/1DZwWkSo9GOdyTdSAGW-sUTr3Xew79o1t?usp=sharing)
 - [Bayes Rule Notebook](https://colab.research.google.com/drive/16dJgFCsftDb5IGXaBaE6rcsw9N9HazsW?usp=sharing)
+- [Bayes Rule Notebook Solutions](https://colab.research.google.com/drive/1Yp6ao9IXrdrSY2_UCwptQsu-8TMNe9_x?usp=sharing)
