@@ -2,6 +2,7 @@
 
 [Introduction to AI](./index.md)
 <!-- - [Week 1,2 - Data, Numpy, Matrices, Error/Loss functions and Regression](./week1_2/index.md) -->
+[Jupyter Notebook Export Tutorial](./export.md)
 [Week 1 - Python, NetworkX, Bayes Theorem](./week1/index.md)
 <!-- - [Week 3,4 - Non-Linear Regression, OLS, and Log Loss](./week3_4/index.md) -->
 <!-- - [Week 5,6 - Classification: SVMs, Naive Bayes, KNN and Decision Trees](./week5_6/index.md) -->
