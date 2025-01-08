@@ -4,7 +4,7 @@
 
 **Note:** There is no lecture participation for Week 1 Monday.
 
-- Week 1 Lecture Slides - TBD
+- Week 1 Lecture Slides - [Intro to AI and Agents](https://drive.google.com/file/d/1jostf4D9ezDgqxJ4rRW9RfKyhNw9xjSi/view?usp=sharing)
 - Week 1 Notebooks
   - [Jupyter Notebook Tutorial](https://drive.google.com/file/d/1n5p2kT7g0oQLzcLec2u10hFxfo5RORl0/view?usp=sharing)
 
