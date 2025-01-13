@@ -1,4 +1,4 @@
-# Week 1 - Introduction: Python, NetworkX, Bayes Theorem
+# Week 1 - Introduction, Agents and Environments
 
 ## Week 1 Lecture Material
 
