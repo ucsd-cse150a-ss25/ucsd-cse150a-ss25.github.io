@@ -2,7 +2,9 @@
 
 ## Week 2 Lecture Materials
 
-- Week 2 Lecture Slides - [Adv Topics in Prob., Part 1](https://docs.google.com/presentation/d/1VSYypwDfRfi5skLT12gRMcyfg7TKYsB1zR1ETR5qCjk/edit?usp=sharing)
+- Week 2 Lecture Slides
+  - [Baye's Theorem](https://drive.google.com/file/d/1j2C60MW0au1z6uCwX-2VD4yAjKo-UbDB/view?usp=sharing)
+  - [Adv Topics in Prob., Part 1](https://drive.google.com/file/d/1tl_zNgYVPxB8C08uzz5K6LANhl9Ntzmm/view?usp=sharing)
 - Week 2 Notebooks
 
 ## Week 2 Discussion
