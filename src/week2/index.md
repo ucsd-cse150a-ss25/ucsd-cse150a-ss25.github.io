@@ -1,5 +1,7 @@
 # Week 2 – Probability and Bayesian Networks
 
+## [Homework 1 - Due 11:59 PM Sunday, January 26](https://github.com/ucsd-cse150a-w25/hw1)
+
 ## Week 2 Lecture Materials
 
 - Week 2 Lecture Slides
