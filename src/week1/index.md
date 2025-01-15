@@ -15,7 +15,7 @@
 
 Note that for this week’s discussion **only**, we have extended the deadline to Wednesday 8:00AM to submit your notebooks.
 
-- [Week 1 Discussion Slides](https://docs.google.com/presentation/d/1weVsuC61di85JtJNC7xcynxN-00AZL_6QSLGljjHa-0/edit?usp=sharing)
+- [Week 1 Discussion Slides](https://drive.google.com/file/d/1abKbZAFH0rxNrEpRAHgVl4JB7NvfBgWf/view?usp=sharing)
 - [NetworkX Documentation](https://networkx.org/documentation/stable/tutorial.html)
 - [NetworkX Tutorial Notebook](https://colab.research.google.com/drive/1EicgkS9kM680RTI7I7XEi0An-7yDaZyz?usp=sharing)
 - [Python Intro Notebook](https://colab.research.google.com/drive/1DZwWkSo9GOdyTdSAGW-sUTr3Xew79o1t?usp=sharing)
