@@ -6,7 +6,7 @@
 
 - Week 2 Lecture Slides
   - [Bayes' Theorem](https://drive.google.com/file/d/1j2C60MW0au1z6uCwX-2VD4yAjKo-UbDB/view?usp=sharing)
-  - [Adv Topics in Prob., Part 1](https://drive.google.com/file/d/1tl_zNgYVPxB8C08uzz5K6LANhl9Ntzmm/view?usp=sharing)
+  - [Adv Topics in Prob., Part 1](https://drive.google.com/file/d/1c7KQ90XO69HU-Uhm-BjhZCLfkDtNyYTq/view?usp=sharing)
 - Week 2 Notebooks
 
 ## Week 2 Discussion
