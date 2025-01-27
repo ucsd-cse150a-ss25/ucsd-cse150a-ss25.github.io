@@ -1,4 +1,4 @@
-# Week 3 – Advanced Probability, Bayesian Networks and D-Seperation
+# Week 4 – Bayesian Networks and Review
 
 ## Lecture Materials
 - [Monday Lecture Slides](https://drive.google.com/file/d/1a0USb19y33oUKtg5cS3QYiieP46oG9C0/view?usp=drive_link)
