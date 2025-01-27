@@ -6,7 +6,7 @@
 <!-- - [Monday Participation]() -->
 - [Wednesday Lecture Slides](https://drive.google.com/file/d/1bzLybsc7bZliUoPQjfEDn13EiMiXydzf/view?usp=drive_link)
 - [Wednesday Lecture Handout](https://drive.google.com/file/d/1qqax-sljWvWcvuyiLwvIrIrZwDLSY76u/view?usp=sharing)
-- [Friday Lecture Slides](https://drive.google.com/file/d/10uk_rpJ_W6X18rv52f2kKqdOSq-VMrD_/view?usp=drive_link)
+- Friday Lecture Slides: Continued From Wedneday
 - [Friday Lecture Handout](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
 
 <!--
