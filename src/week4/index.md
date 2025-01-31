@@ -8,7 +8,7 @@
 - [Monday Discussion Slides](https://drive.google.com/file/d/1MZq4eZlugB81Ygl_fk-wSH6gyaShDIRp/view?usp=drive_link)
   - [Solutions & Notes](https://drive.google.com/file/d/1l22Tg1tvsa-Jyk8UvCGn2SCDv75hiyZE/view?usp=sharing)
 - [Friday Lecture Slides](https://drive.google.com/file/d/1RUGNO1byKdfZNP26h6x3vpRncLui2Tnb/view?usp=sharing)
-  - [Monday Lecture Participation](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
+  - [Friday Lecture Participation](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
 <!-- - [Monday Discussion Participation](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
 <!-- - [Wednesday Lecture Slides](https://drive.google.com/file/d/1bzLybsc7bZliUoPQjfEDn13EiMiXydzf/view?usp=drive_link)
 - [Wednesday Lecture Handout](https://drive.google.com/file/d/1qqax-sljWvWcvuyiLwvIrIrZwDLSY76u/view?usp=sharing)
