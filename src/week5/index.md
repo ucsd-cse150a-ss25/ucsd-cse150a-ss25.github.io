@@ -9,9 +9,9 @@
   - [PolyTree's Markov Blankets and NoisyOR](https://drive.google.com/file/d/1RUGNO1byKdfZNP26h6x3vpRncLui2Tnb/view?usp=sharing)
   - [Naive Bayes](https://drive.google.com/file/d/1mhDjv4DlEsksrbm36aNxyqh8fnMUfLIQ/view?usp=drive_link)
 - [Friday Lecture Participation](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
-<!-- - [Monday Discussion Participation](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
-<!-- - [Wednesday Lecture Slides](https://drive.google.com/file/d/1bzLybsc7bZliUoPQjfEDn13EiMiXydzf/view?usp=drive_link)
-- [Wednesday Lecture Handout](https://drive.google.com/file/d/1qqax-sljWvWcvuyiLwvIrIrZwDLSY76u/view?usp=sharing)
-- Friday Lecture Slides: Continued From Wedneday
-- [Friday Lecture Handout](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
+<!-- - [Monday Discussion Participation](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)-->
+- [Wednesday Lecture Slides](https://drive.google.com/file/d/1Fb4b6ZwNPuTsqPypLWyxW-DSWtpAR7t-/view?usp=drive_link)
+  - [Wednesday Lecture Handout](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
+<!-- - Friday Lecture Slides: Continued From Wedneday
+  - [Friday Lecture Handout](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
 -->
