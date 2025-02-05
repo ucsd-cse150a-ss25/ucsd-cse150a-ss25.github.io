@@ -30,6 +30,7 @@ This web page serves as the main source of announcements and resources for the c
 - General Class Q&A Forum: Discord link on Canvas!
 - Code Q&A Forum: [Piazza](https://piazza.com/)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
+- Github: [https://github.com/ucsd-cse150a-w25](https://github.com/ucsd-cse150a-w25)
 
 - Learning Objectives and Outcomes
   - Upon successful completion of this course, students will be able to:
