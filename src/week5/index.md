@@ -12,6 +12,6 @@
 <!-- - [Monday Discussion Participation](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)-->
 - [Wednesday Lecture Slides](https://drive.google.com/file/d/1Fb4b6ZwNPuTsqPypLWyxW-DSWtpAR7t-/view?usp=drive_link)
   - [Wednesday Lecture Handout](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
-<!-- - Friday Lecture Slides: Continued From Wedneday
+- [Friday Lecture Slides: Entropy & Log Likelihood](https://drive.google.com/file/d/1EtzNMLkDe2lk-5_bn5AfaqdCn7j6NuvJ/view?usp=sharing)
+- [Friday Lecture Slides: Log Likelihood and Maximum Likelihood](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=sharing)
   - [Friday Lecture Handout](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
--->
