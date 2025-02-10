@@ -2,7 +2,7 @@
 
 ## Lecture Materials
 
-- [Monday Discussion Slides] (https://drive.google.com/file/d/1HF66yUO0U-gv3G_-O15D4MbmvJ-3Zob9/view?usp=sharing)
+- [Monday Discussion Slides](https://drive.google.com/file/d/1HF66yUO0U-gv3G_-O15D4MbmvJ-3Zob9/view?usp=sharing)
 
 - [Monday Lecture Handout (Slides)](https://docs.google.com/presentation/d/16GabVOQnu6V4pQq6-SsH0sCNXZSdbImH/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/1IK5-AMJuSKYqx9uyquiXDEDzBXcIIm0t/view?usp=share_link)
