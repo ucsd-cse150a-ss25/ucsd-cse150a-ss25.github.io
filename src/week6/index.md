@@ -2,7 +2,7 @@
 
 ## Lecture Materials
 - [Monday Lecture Slides](#) None
-  - [Monday Lecture Participation](https://colab.research.google.com/drive/1qtnIU-v_llF-tfknrc5_AmCNkzUbfcUe?usp=sharing)
+  - [Monday Lecture Participation](https://colab.research.google.com/drive/1AqMCiiHKjb5nVcF_Wq4yuyJZha2c6q_-?usp=sharing)
 - [Monday Discussion Slides](https://drive.google.com/file/d/1HF66yUO0U-gv3G_-O15D4MbmvJ-3Zob9/view?usp=drive_link)
 <!--  - [Solutions & Notes](https://drive.google.com/file/d/1l22Tg1tvsa-Jyk8UvCGn2SCDv75hiyZE/view?usp=sharing) -->
 <!-- - [Wednesday Lecture Slides](#) None
