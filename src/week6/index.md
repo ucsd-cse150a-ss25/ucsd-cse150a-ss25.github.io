@@ -12,7 +12,7 @@
   - Wednesday Partcipation Colab Notebook
 - Friday Lecture:
   - [Friday Lecture Notebook](https://drive.google.com/file/d/1JLZr3AIh2KGZIXiYKm5kCxU5-BwWyx7S/view?usp=sharing)
-  - [Friday Lecture Participation](https://drive.google.com/file/d/1t4WoQtL3oOo_PQpht6K5McJG8MGXDgtK/view?usp=sharing)
+  - [Friday Lecture Participation](https://github.com/ucsd-cse150a-w25/notebooks/tree/main)
 <!-- - [Friday Lecture Slides: Entropy & Log Likelihood](https://drive.google.com/file/d/1EtzNMLkDe2lk-5_bn5AfaqdCn7j6NuvJ/view?usp=sharing)
 - [Friday Lecture Slides: Log Likelihood and Maximum Likelihood](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=sharing)
   - [Friday Lecture Handout](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link) -->
