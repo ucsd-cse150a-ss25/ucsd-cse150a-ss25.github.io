@@ -6,7 +6,8 @@
 - [Monday Lecture Handout (PDF)](https://drive.google.com/file/d/10Si0gmiWDdKHulEku3P1AIHL8NtWGiRg/view?usp=share_link)
 - [Monday Presentation (Slides)](https://docs.google.com/presentation/d/1spPrbhbIzFTTH2-PykXBfrN3DYZ4geI0/edit?usp=share_link&ouid=107408851252378993524&rtpof=true&sd=true)
 - [Monday Presentation (PDF)](https://drive.google.com/file/d/1dcMvQtbw4iHqG3KaSAHEpRVbpa-F1gcn/view?usp=share_link)
-- [Monday Discussion Slides](https://drive.google.com/file/d/1Xh_NYQ2CtYIXxxKlmjMFKf57HY4ErOBy/view?usp=sharing)
+- [Monday Discussion Slides (slides)](https://docs.google.com/presentation/d/1srKVX0k_arXVAImucxzwlHaGVI_jvrF5sUDDlXDjgXk/edit?usp=sharing)
+- [Monday Discussion Slides (PDF)](https://drive.google.com/file/d/1Xh_NYQ2CtYIXxxKlmjMFKf57HY4ErOBy/view?usp=sharing)
 - No Lecture/Lecture Handout Wednesday!
 
 ## Related Links
