@@ -9,7 +9,7 @@
 [Week 4 - Bayesian Networks and Review](./week4/index.md)
 [Week 5 – HMMs, Maximum Likelihood Estimation, EM Algorithm](./week5/index.md)
 [Week 6 – Coding Viterbi's Algorithm, HMMs, Maximum Likelihood Estimation, EM Algorithm and Review](./week6/index.md) -->
-<!-- - [Week 7 – ](./week7/index.md) -->
+[Week 7 – More Coding (Viterbi's & Likelihood Weighting), Expectation Maximization](./week7/index.md)
 <!-- - [Week 8 - ](./week8/index.md) -->
 <!-- - [Week 9 - ](./week9/index.md) -->
 <!-- - [Week 10 - ](./week10/index.md) -->
