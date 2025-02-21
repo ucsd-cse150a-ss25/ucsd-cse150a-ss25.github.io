@@ -8,3 +8,5 @@
 - Wednesday Lecture:
   - [Wednesday Lecture Notebook](https://github.com/ucsd-cse150a-w25/notebooks/tree/main)
   - [Wedneday Participation Notebook](https://drive.google.com/file/d/1JLZr3AIh2KGZIXiYKm5kCxU5-BwWyx7S/view?usp=sharing)
+- Friday Lecture (Will possibly livecast on twitch. Recording will be posted)
+  - [Friday Lecture Notebook & Participation](https://github.com/ucsd-cse150a-w25/notebooks/blob/main/bayesnets.ipynb)
