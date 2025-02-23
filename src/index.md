@@ -113,7 +113,7 @@ Sometimes quizzes have associated readings or videos to supplement lecture.
 
 ### Homeworks
 
-Homeworks will be released usually every other week and you will typically have two weeks to submit via Gradescope the pdf file **(Note: Not an ipynb!)**. Note that hw 5 will have only one week to complete. The homework will be due on Sundays, the day before the next homework is released. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
+Homeworks will be released usually every other week and you will typically have two weeks to submit via Gradescope the pdf file **(Note: Not an ipynb!)**. The homework will be due on Sundays, the day before the next homework is released. Homework will only be graded on your ability to complete the assignment based on the directions, and not based on accuracy of your model (unless specified), but must be above random.
 
 For each post, our staff will review it and give a **0-3** score along with feedback:
 
@@ -141,7 +141,7 @@ Skill assessments will take place in AP&M, **unless you have an AFA letter**. Yo
 Students requesting accommodations for this course due to a disability must provide a current Authorization for Accommodation (AFA) letter (paper or electronic) issued by the Office for Students with Disabilities (osd.ucsd.edu). Students are required to discuss accommodation arrangements with instructors and OSD liaisons in the department IN ADVANCE of any exams or assignments. Students with approved accommodations will be taking their exams at the Triton Testing Center and not prairietest.com. Exams must be scheduled at least 72 hours in advance at http://tritontesting.ucsd.edu.
 
 ### Group Project
-The group project is milestone based and will consist of several milestones. Work will be uploaded on GitHub and submissions will be done on Gradescope. Details TBA!
+The group project is milestone based and will consist of several milestones. Work will be uploaded on GitHub and submissions will be done on Gradescope. Details on Canvas.
 
 ## Grading
 
