@@ -1,4 +1,4 @@
-# Week 8 - Debuggers and Controlling Processes
+# Week 8 - Likelihood Weighting, Expectation Maximation and MonteCarlo Methods
 
 ## Lecture Materials
 - [Monday Discussion Slides](https://drive.google.com/file/d/1hNhKUDwXTW8AiPuAO2hPT-fFsvZu3pRJ/view?usp=sharing)
