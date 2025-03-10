@@ -12,4 +12,4 @@
 [Week 7 – More Coding (Forward & Backward and Viterbi's)](./week7/index.md)
 [Week 8 - Likelihood Weighting, Expectation Maximation and MonteCarlo Methods](./week8/index.md)
 [Week 9 - Coding Practice and Intro to Reinforcement Learning](./week9/index.md)
-<!-- - [Week 10 - ](./week10/index.md) -->
+[Week 10 - Reinforcement Learning](./week10/index.md)
