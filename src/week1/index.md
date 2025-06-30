@@ -26,12 +26,10 @@
 
 <!--Note that for this week’s discussion **only**, we have extended the deadline to Wednesday 8:00AM to submit your notebooks.-->
 
-- [Part 1 Discussion Slides](https://drive.google.com/file/d/1abKbZAFH0rxNrEpRAHgVl4JB7NvfBgWf/view?usp=sharing)
 - [NetworkX Documentation](https://networkx.org/documentation/stable/tutorial.html)
 - [NetworkX Tutorial Notebook](https://colab.research.google.com/drive/1EicgkS9kM680RTI7I7XEi0An-7yDaZyz?usp=sharing)
 - [Python Intro Notebook](https://colab.research.google.com/drive/1DZwWkSo9GOdyTdSAGW-sUTr3Xew79o1t?usp=sharing)
 - [Bayes Rule Notebook](https://colab.research.google.com/drive/16dJgFCsftDb5IGXaBaE6rcsw9N9HazsW?usp=sharing)
-- [Bayes Rule Notebook Solutions](https://colab.research.google.com/drive/1Yp6ao9IXrdrSY2_UCwptQsu-8TMNe9_x?usp=sharing)
 - [Supplementary Notes on Probability](https://drive.google.com/file/d/1v0eUQrGOtc_1xlUz3PV1Xjyj6Yg36_53/view?usp=drive_link)
 - [Part 2 Discussion Slides](https://drive.google.com/file/d/1YJrfNfi2LFQd1DQT19c52jOFlnxgeOgs/view?usp=sharing)
 
