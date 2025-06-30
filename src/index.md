@@ -1,4 +1,4 @@
-![ML Drawing<img src="./ML_drawing_light.png" width="576" height="575" />](./ML_drawing_light.png)
+![ML Drawing<img src="./images/works-my-machine.png" width="576" height="575" />](./images/works-my-machine.png)
 
 # UCSD CSE150A Summer Session I 2025 Syllabus and Logistics
 
