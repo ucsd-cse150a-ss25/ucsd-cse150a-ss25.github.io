@@ -3,6 +3,13 @@
 # UCSD CSE150A Summer Session I 2025 Syllabus and Logistics
 
 - [Edwin Solares](http://edwinsolares.com) (Instructor)
+- Anthony Ruiz (TA)
+- Anthony Tong (Lead Tutor)
+- Jesus Gonzalez (Tutor)
+- Andrew Lu (Tutor)
+- Kevin Ly (Tutor)
+- Yifan Zhu (Tutor)
+
 
 [Basics](#basics) -
 [Schedule](#schedule) -
@@ -24,7 +31,7 @@ This web page serves as the main source of announcements and resources for the c
 - “Skill Assessments” Exams: Flexible scheduling in weeks 2, 3, 4, 5 and Makeups at the end of week 5 
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
-- Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter on week 11. Maximum of 1 Make up for Skill Assessments.
+- Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter on week 5. Maximum of 1 Make up for Skill Assessments.
 
 - Podcasts: [podcast.ucsd.edu](https://podcast.ucsd.edu)
 - General Class Q&A Forum: Discord link on Canvas!
