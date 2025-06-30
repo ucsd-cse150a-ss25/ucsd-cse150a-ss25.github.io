@@ -18,9 +18,9 @@
 ## Homework 1 - TBA 
 <!--Due 11:59 PM Sunday, June 6](https://github.com/ucsd-cse150a-ss25/hw1)-->
 
-## Week 1 Discussion
+## Week 1 Discussion - TBA
 
-**Note:** On the course website (link available on the Canvas home page) there is a link in week 1 to the Bayes rule notebook. You will fill out and **write code** to implement the missing cells in the notebook, and save it as a pdf. 
+<!--**Note:** On the course website (link available on the Canvas home page) there is a link in week 1 to the Bayes rule notebook. You will fill out and **write code** to implement the missing cells in the notebook, and save it as a pdf. -->
 <!--**Important for this week only: in Google Colab you can directly use your browser’s print command to export as a pdf. For mac, for example, this is `cmd+P`. In future classes, -->
 **Note: We will be using `nbconvert` to create pdfs.**
 
@@ -32,5 +32,4 @@
 - [Bayes Rule Notebook](https://colab.research.google.com/drive/16dJgFCsftDb5IGXaBaE6rcsw9N9HazsW?usp=sharing)
 - [Supplementary Notes on Probability](https://drive.google.com/file/d/1v0eUQrGOtc_1xlUz3PV1Xjyj6Yg36_53/view?usp=drive_link)
 
-<!-- Reminder that this week (and future week) discussions will not be like week 1!-->
-The participation due date will be during discussion.
+Week 1 Discussion coincides with the Fourth of July, so there will be a recording sent out. Participation will be completed asynchronously.
