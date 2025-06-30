@@ -31,7 +31,6 @@
 - [Python Intro Notebook](https://colab.research.google.com/drive/1DZwWkSo9GOdyTdSAGW-sUTr3Xew79o1t?usp=sharing)
 - [Bayes Rule Notebook](https://colab.research.google.com/drive/16dJgFCsftDb5IGXaBaE6rcsw9N9HazsW?usp=sharing)
 - [Supplementary Notes on Probability](https://drive.google.com/file/d/1v0eUQrGOtc_1xlUz3PV1Xjyj6Yg36_53/view?usp=drive_link)
-- [Part 2 Discussion Slides](https://drive.google.com/file/d/1YJrfNfi2LFQd1DQT19c52jOFlnxgeOgs/view?usp=sharing)
 
 <!-- Reminder that this week (and future week) discussions will not be like week 1!-->
 The participation due date will be during discussion.
