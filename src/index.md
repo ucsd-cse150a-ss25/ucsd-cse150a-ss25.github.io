@@ -1,6 +1,6 @@
 ![ML Drawing<img src="./ML_drawing_light.png" width="576" height="575" />](./ML_drawing_light.png)
 
-# UCSD CSE150A WINTER 2025 Syllabus and Logistics
+# UCSD CSE150A Summer Session I 2025 Syllabus and Logistics
 
 - [Edwin Solares](http://edwinsolares.com) (Instructor)
 
@@ -19,9 +19,9 @@ This web page serves as the main source of announcements and resources for the c
 
 ## Basics
 
-- Lecture: [Center Hall 119](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday, Wednesday, Friday 8:00a-8:50a 
-- Discussion: [Center Hall 115](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday 8:00p-8:50p
-- “Skill Assessments” Exams: Flexible scheduling in weeks 3, 5, 7 and 9 
+- Lecture: [Center Hall 109](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Monday, Tuesday, Wednesday, Thursday 8:00a-9:20a 
+- Discussion: [Center Hall 113](https://map.concept3d.com/?id=1005#!ct/18312,63891,65653?m/163044?s/center%20hall), Friday 8:00p-8:50a
+- “Skill Assessments” Exams: Flexible scheduling in weeks 2, 3, 4, 5 and Makeups at the end of week 5 
   - [Prairie Test Link](https://us.prairietest.com/) - signing up and taking the skill assessments
   - [Prairie Learn Link](https://us.prairielearn.com/pl/login) - practice skill assessments
 - Final Exam (used for making up test credit): Flexible scheduling at the end of the quarter on week 11. Maximum of 1 Make up for Skill Assessments.
@@ -30,7 +30,7 @@ This web page serves as the main source of announcements and resources for the c
 - General Class Q&A Forum: Discord link on Canvas!
 - Code Q&A Forum: [Piazza](https://piazza.com/)
 - Gradescope: [https://www.gradescope.com](https://www.gradescope.com)
-- Github: [https://github.com/ucsd-cse150a-w25](https://github.com/ucsd-cse150a-w25)
+- Github: [https://github.com/ucsd-cse150a-ss25](https://github.com/ucsd-cse150a-ss25)
 
 - Learning Objectives and Outcomes
   - Upon successful completion of this course, students will be able to:
@@ -90,7 +90,7 @@ way to make up a dicussion, even for illness, travel, or emergencies. My prefere
 
 ### Lecture Sessions
 
-Lecture sessions are on Monday, Wednesday, and Friday.
+Lecture sessions are on Monday, Tuesday, Wednesday, and Thursday.
 
 In each lecture, we will go over Jupyter Notebooks (available electronically via GitHub). At the end of lecture you'll have a chance submit your Jupyter Notebook to Gradescope. You can do this by uploading your ipynb file via the Gradescope app (for iOS and Android) or
 through the web interface. To get participation credit for lecture, you have to
