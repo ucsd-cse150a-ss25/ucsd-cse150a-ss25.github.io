@@ -8,6 +8,7 @@
 - Week 1 Notebooks
   - [Jupyter Notebook Tutorial](https://drive.google.com/file/d/1n5p2kT7g0oQLzcLec2u10hFxfo5RORl0/view?usp=sharing)
 <!--- [Worksheet 1](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view?usp=sharing)-->
+- [Wednesday Worksheet](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view)
 
 ## Probability and Bayesian Networks Lecture Materials
 
