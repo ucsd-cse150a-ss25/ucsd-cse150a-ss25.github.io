@@ -4,8 +4,8 @@
 
 **Note:** There is no lecture participation for Week 1 Monday.
 
-- Week 1 Lecture Slides - [Intro to AI and Agents](https://drive.google.com/file/d/1jostf4D9ezDgqxJ4rRW9RfKyhNw9xjSi/view?usp=sharing)
-- Week 1 Notebooks
+- Lecture Slides - [Intro to AI and Agents](https://drive.google.com/file/d/1jostf4D9ezDgqxJ4rRW9RfKyhNw9xjSi/view?usp=sharing)
+- Notebooks
   - [Jupyter Notebook Tutorial](https://drive.google.com/file/d/1n5p2kT7g0oQLzcLec2u10hFxfo5RORl0/view?usp=sharing)
 <!--- [Worksheet 1](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view?usp=sharing)-->
 - [Wednesday Worksheet](https://drive.google.com/file/d/1QvD5ScPa4OuSQYtxqu8yHf7pwYG0Jf0d/view)
@@ -15,7 +15,8 @@
 - Lecture Slides
   - [Bayes' Theorem](https://drive.google.com/file/d/1j2C60MW0au1z6uCwX-2VD4yAjKo-UbDB/view?usp=sharing)
   - [Adv Topics in Prob., Part 1](https://drive.google.com/file/d/1c7KQ90XO69HU-Uhm-BjhZCLfkDtNyYTq/view?usp=sharing)
-
+- Notebooks
+  - TBA
 ## Homework 1 - TBA 
 <!--Due 11:59 PM Sunday, June 6](https://github.com/ucsd-cse150a-ss25/hw1)-->
 
