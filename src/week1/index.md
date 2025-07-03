@@ -13,7 +13,6 @@
 ## Probability and Bayesian Networks Lecture Materials
 
 - Lecture Slides
-  - [Intro to AI: Probabilistic Reasoning](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=sharing)
   - [Bayes' Theorem](https://drive.google.com/file/d/1j2C60MW0au1z6uCwX-2VD4yAjKo-UbDB/view?usp=sharing)
   - [Advanced Probability](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link)
 - Notebooks
