@@ -13,14 +13,14 @@
 ## Probability and Bayesian Networks Lecture Materials
 
 - Lecture Slides
-  - [Bayes' Theorem](https://drive.google.com/file/d/1j2C60MW0au1z6uCwX-2VD4yAjKo-UbDB/view?usp=sharing)
   - [Intro to AI: Probabilistic Reasoning](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=sharing)
+  - [Bayes' Theorem](https://drive.google.com/file/d/1j2C60MW0au1z6uCwX-2VD4yAjKo-UbDB/view?usp=sharing)
+  - [Advanced Probability](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link)
 - Notebooks
-  - TBA
-## Homework 1 - TBA 
-<!--Due 11:59 PM Sunday, June 6](https://github.com/ucsd-cse150a-ss25/hw1)-->
+  - [Agents](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/agents.ipynb)
+## Homework 1 - Due 11:59 PM PST Wed, June 9 - Assignment Details on Canvas
 
-## Week 1 Discussion - TBA
+## Week 1 Discussion - Recording TBA - July 4 is a Holiday!
 
 <!--**Note:** On the course website (link available on the Canvas home page) there is a link in week 1 to the Bayes rule notebook. You will fill out and **write code** to implement the missing cells in the notebook, and save it as a pdf. -->
 <!--**Important for this week only: in Google Colab you can directly use your browser’s print command to export as a pdf. For mac, for example, this is `cmd+P`. In future classes, -->
