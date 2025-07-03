@@ -14,7 +14,7 @@
 
 - Lecture Slides
   - [Bayes' Theorem](https://drive.google.com/file/d/1j2C60MW0au1z6uCwX-2VD4yAjKo-UbDB/view?usp=sharing)
-  - [Intro to AI: Probabilistic Reasoning](https://docs.google.com/presentation/d/1VSYypwDfRfi5skLT12gRMcyfg7TKYsB1zR1ETR5qCjk/edit?usp=sharing)
+  - [Intro to AI: Probabilistic Reasoning](https://drive.google.com/file/d/1PaHRimezpmIsGRV0S7yCOveQB5YIaO3X/view?usp=sharing)
 - Notebooks
   - TBA
 ## Homework 1 - TBA 
