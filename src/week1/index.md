@@ -21,6 +21,7 @@
 ## Homework 1 - Due 11:59 PM PST Wed, June 9 - Assignment Details on Canvas
 
 ## Week 1 Discussion - Recording  - July 4 is a Holiday!
+- Podcast (https://canvaskaf.ucsd.edu/media/t/1_1hrr0vxp/381173052)
 - Discussion Slides (https://drive.google.com/file/d/1i2Bae9dDsnIISS2uUkYmXNuWT5PpD_AW/view?usp=share_link)
 - Notebooks
   - [Python introduction] (https://github.com/ucsd-cse150a-ss25/ucsd-cse150a-ss25.github.io/blob/8373cd4a2f19b8ddebf99a1c6f42bd765e7749bd/src/week1/discussion1_python_intro.ipynb )
