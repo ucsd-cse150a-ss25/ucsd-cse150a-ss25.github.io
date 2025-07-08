@@ -12,7 +12,9 @@
   - [CPTs, Markov Blankets](https://drive.google.com/file/d/1RUGNO1byKdfZNP26h6x3vpRncLui2Tnb/view?usp=drive_link)
   - [Entropy & Log Likelihood](https://drive.google.com/file/d/1EtzNMLkDe2lk-5_bn5AfaqdCn7j6NuvJ/view?usp=drive_link)
   - [Maximum Likelihood Estimation](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=drive_link)
-- Notebooks (TBA)
+- Notebooks (Note if imports are used you will need to upload that python script that is imported)
+  - [Probability Notebook](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/probability.ipynb)
+  - [Bayesian Network Notebook](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/bayesnets.ipynb)
 - Worksheets
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
   - [Probability and Bayesian Networks Worksheet](https://drive.google.com/file/d/1qqax-sljWvWcvuyiLwvIrIrZwDLSY76u/view?usp=drive_link)
