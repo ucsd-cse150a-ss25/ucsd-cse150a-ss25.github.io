@@ -7,8 +7,15 @@
 - Lecture Slides
   - [Adv Topics in Prob.](https://drive.google.com/file/d/1WmxOJ4QiQdXSGEQ9ZqARQfTytkUxUCw7/view?usp=drive_link)
   - [Bayesian Networks](https://drive.google.com/file/d/1DoTTiny7hC5QaMNvboGfs9NqrJ3fZQ-0/view?usp=sharing)
+  - [D-Separation](https://drive.google.com/file/d/1Y8giEWkZxurL0iisiMdMGerhyLffMnyE/view?usp=drive_link)
+  - [Naive Bayes](https://drive.google.com/file/d/1mhDjv4DlEsksrbm36aNxyqh8fnMUfLIQ/view?usp=drive_link)
+  - [Maximum Likelihood Estimation]()
 - Notebooks (TBA)
-
+- Worksheets
+  - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
+  - [Probability and Bayesian Networks Worksheet](https://drive.google.com/file/d/1qqax-sljWvWcvuyiLwvIrIrZwDLSY76u/view?usp=drive_link)
+  - Naive Bayes and HMM Worksheet: TBA
+  - MLE Worksheet: TBA
 ## Week 2 Discussion
 
 The participation due date will be during discussion.
