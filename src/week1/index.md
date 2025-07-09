@@ -21,12 +21,12 @@
 ## Homework 1 - Due 11:59 PM PST Wed, June 9 - Assignment Details on Canvas
 
 ## Week 1 Discussion - Recording  - July 4 is a Holiday!
-- Podcast (https://canvas.ucsd.edu/courses/66995/external_tools/5826)
-- Discussion Slides (https://drive.google.com/file/d/1i2Bae9dDsnIISS2uUkYmXNuWT5PpD_AW/view?usp=share_link)
+- [Podcast](https://canvas.ucsd.edu/courses/66995/external_tools/5826)
+- [Discussion Slides](https://drive.google.com/file/d/1i2Bae9dDsnIISS2uUkYmXNuWT5PpD_AW/view?usp=share_link)
 - Notebooks
-  - [Python introduction] (https://github.com/ucsd-cse150a-ss25/ucsd-cse150a-ss25.github.io/blob/8373cd4a2f19b8ddebf99a1c6f42bd765e7749bd/src/week1/discussion1_python_intro.ipynb )
-  - [Networkx tutorial] (https://github.com/ucsd-cse150a-ss25/ucsd-cse150a-ss25.github.io/blob/8373cd4a2f19b8ddebf99a1c6f42bd765e7749bd/src/week1/CSE150A_networkx_tutorial.ipynb)
-  - [Probability concepts] (https://github.com/ucsd-cse150a-ss25/ucsd-cse150a-ss25.github.io/blob/8373cd4a2f19b8ddebf99a1c6f42bd765e7749bd/src/week1/Probability_Concepts_SSI.ipynb)
+  - [Python introduction](https://github.com/ucsd-cse150a-ss25/ucsd-cse150a-ss25.github.io/blob/8373cd4a2f19b8ddebf99a1c6f42bd765e7749bd/src/week1/discussion1_python_intro.ipynb)
+  - [Networkx tutorial](https://github.com/ucsd-cse150a-ss25/ucsd-cse150a-ss25.github.io/blob/8373cd4a2f19b8ddebf99a1c6f42bd765e7749bd/src/week1/CSE150A_networkx_tutorial.ipynb)
+  - [Probability concepts](https://github.com/ucsd-cse150a-ss25/ucsd-cse150a-ss25.github.io/blob/8373cd4a2f19b8ddebf99a1c6f42bd765e7749bd/src/week1/Probability_Concepts_SSI.ipynb)
 
 <!--**Note:** On the course website (link available on the Canvas home page) there is a link in week 1 to the Bayes rule notebook. You will fill out and **write code** to implement the missing cells in the notebook, and save it as a pdf. -->
 <!--**Important for this week only: in Google Colab you can directly use your browser’s print command to export as a pdf. For mac, for example, this is `cmd+P`. In future classes, -->
