@@ -20,7 +20,7 @@
   - MLE Worksheet: TBA
 ## Week 2 Discussion
 - Discussion Slides
-  - - [MLE and EM](https://drive.google.com/file/d/1Xh_NYQ2CtYIXxxKlmjMFKf57HY4ErOBy/view)
+  - [MLE and EM](https://drive.google.com/file/d/1Xh_NYQ2CtYIXxxKlmjMFKf57HY4ErOBy/view)
 The participation due date will be during discussion.
 
 <!-- - [Supplementary Notes on Probability](https://drive.google.com/file/d/1v0eUQrGOtc_1xlUz3PV1Xjyj6Yg36_53/view?usp=drive_link)
