@@ -21,7 +21,8 @@
 ## Week 2 Discussion
 - Discussion Slides
   - [MLE and EM](https://drive.google.com/file/d/1Xh_NYQ2CtYIXxxKlmjMFKf57HY4ErOBy/view)
+- Discussion Notebooks
+  - [Probability excercises](https://drive.google.com/file/d/1dmiLVedxZo8TezWtXXJ9Z1DM-qoKKDBb/view?usp=sharing)
 The participation due date will be during discussion.
-
 <!-- - [Supplementary Notes on Probability](https://drive.google.com/file/d/1v0eUQrGOtc_1xlUz3PV1Xjyj6Yg36_53/view?usp=drive_link)
 <!-- - [Week 2 Discussion Slides](https://drive.google.com/file/d/1YJrfNfi2LFQd1DQT19c52jOFlnxgeOgs/view?usp=sharing)
