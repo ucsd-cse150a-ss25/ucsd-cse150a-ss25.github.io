@@ -3,6 +3,7 @@
 # UCSD CSE150A Summer Session I 2025 Syllabus and Logistics
 
 - [Edwin Solares](http://edwinsolares.com) (Instructor)
+- Nishanth Ramesha (TA)
 - Anthony Tong (Lead Tutor)
 - Jesus Gonzalez (Tutor)
 - Kevin Ly (Tutor)
