@@ -92,7 +92,7 @@ participation in these discussions for credit. At the end of the day you will su
 If you miss discussion, you'll still be held accountable for understanding the
 relevant material via Skill Assessments. You can miss 1 discussion submission
 without it impacting your grade (see [Grading](#grading) below). There is no
-way to make up a dicussion, even for illness, travel, or emergencies. My preference would be to require all 10 discussions for an A, and have some kind of excused absences. However, tracking excused absences doesn't really scale, so the “one for any reason” policy is how we handle it. You don't need to justify your missed discussions. Contact the instructor if you'll miss more than one discussion for unavoidable reasons.
+way to make up a dicussion, even for illness, travel, or emergencies.
 
 ### Lecture Sessions
 
