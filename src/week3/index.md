@@ -9,6 +9,7 @@
   - [Maximum Likelihood Estimation](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=drive_link)
   - [Hidden Markov Model's](https://drive.google.com/file/d/1Miug4uny-RyyXm44kq29qvAgTS4CBqU5/view?usp=sharing)
   - [More Hidden Markov Model's](https://drive.google.com/file/d/1pf9Skn_luj9hXaotf4_DrH-ALXyf5inT/view?usp=sharing)
+  - [Backward Algorithm and Viterbi's](https://drive.google.com/file/d/1Rhy6UqzyhHqyw4Aq0-kEnhcpikRw5sP6/view?usp=drive_link)
 - Notebooks (Note if imports are used you will need to upload that python script that is imported)
   - [Bayesian Network Notebook](https://github.com/ucsd-cse150a-ss25/notebooks/blob/main/bayesnets.ipynb)
   - [Probability excercises](https://drive.google.com/file/d/1dmiLVedxZo8TezWtXXJ9Z1DM-qoKKDBb/view?usp=sharing)
