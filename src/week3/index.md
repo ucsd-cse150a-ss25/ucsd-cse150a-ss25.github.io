@@ -23,7 +23,7 @@
 - Discussion Slides
   - [HMM, Forward/Backward/Veterbi Algorithm](https://drive.google.com/file/d/1AdWOBJLthsC27-gPCEGR6_Uj1QLDLuZl/view?usp=sharing)
 - Discussion Notebooks
-  - TBA
+  - [HMMs](https://colab.research.google.com/drive/1DdNTHzqFqmrHzyiGb7H9b6zmLe2SXVU3?usp=sharing)
 The participation due date will be during discussion.
 
 <!--
