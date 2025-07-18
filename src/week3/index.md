@@ -19,9 +19,9 @@
   - [Viterbi's Algorithm - HMM](https://drive.google.com/file/d/1JLZr3AIh2KGZIXiYKm5kCxU5-BwWyx7S/view?usp=sharing)
 - Worksheets
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
-## Week 2 Discussion
+## Week 3 Discussion
 - Discussion Slides
-  - TBA
+  - [HMM, Forward/Backward/Veterbi Algorithm](https://drive.google.com/file/d/1AdWOBJLthsC27-gPCEGR6_Uj1QLDLuZl/view?usp=sharing)
 - Discussion Notebooks
   - TBA
 The participation due date will be during discussion.
