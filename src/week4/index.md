@@ -1,4 +1,4 @@
-# Week 4 – 
+# Week 4 – HMM Coding Review, Sampling, Expectation Maximization & EM Special Cases
 
 ## Homework 3 - Due 11:59 PM Wednesday, July 23 (Assignment on Canvas)
 
