@@ -14,10 +14,8 @@
 - Worksheets
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
 ## Week 4 Discussion
-- Discussion Slides
-  - TBA
 - Discussion Notebooks
-  - TBA
+  - [EM](https://colab.research.google.com/drive/1wRvdoX0AKZdKnnIdlO5XDhlOTPMpRaU2?usp=sharing)
 The participation due date will be during discussion.
 <!-- - [Monday Discussion Participation](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
 <!-- - [Wednesday Lecture Slides](https://drive.google.com/file/d/1bzLybsc7bZliUoPQjfEDn13EiMiXydzf/view?usp=drive_link)
