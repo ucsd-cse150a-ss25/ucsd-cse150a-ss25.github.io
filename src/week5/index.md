@@ -1,17 +1,20 @@
-# Week 5 – HMMs, Maximum Likelihood Estimation, EM Algorithm
+# Week 5 – Expectation Maximization in HMMs, EM Special Cases, and Markov Decision Processes
 
-## Lecture Materials
-- [Monday Lecture Slides](https://drive.google.com/file/d/1Miug4uny-RyyXm44kq29qvAgTS4CBqU5/view?usp=sharing)
-  - [Monday Lecture Participation](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
-- [Monday Discussion Slides](https://drive.google.com/file/d/1lOSLexw6eMYFLoLKkeCbitIs0PGUAuv8/view?usp=sharing)
-<!--  - [Solutions & Notes](https://drive.google.com/file/d/1l22Tg1tvsa-Jyk8UvCGn2SCDv75hiyZE/view?usp=sharing)
-- Friday Lecture Slides
-  - [PolyTree's Markov Blankets and NoisyOR](https://drive.google.com/file/d/1RUGNO1byKdfZNP26h6x3vpRncLui2Tnb/view?usp=sharing)
-  - [Naive Bayes](https://drive.google.com/file/d/1mhDjv4DlEsksrbm36aNxyqh8fnMUfLIQ/view?usp=drive_link)
-- [Friday Lecture Participation](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
-<!-- - [Monday Discussion Participation](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)-->
-- [Wednesday Lecture Slides](https://drive.google.com/file/d/1Fb4b6ZwNPuTsqPypLWyxW-DSWtpAR7t-/view?usp=drive_link)
-  - [Wednesday Lecture Handout](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
-- [Friday Lecture Slides: Entropy & Log Likelihood](https://drive.google.com/file/d/1EtzNMLkDe2lk-5_bn5AfaqdCn7j6NuvJ/view?usp=sharing)
-- [Friday Lecture Slides: Log Likelihood and Maximum Likelihood](https://drive.google.com/file/d/1Pz0E5K5Wzse2N_gwHGBaInpYINIStAwC/view?usp=sharing)
-  - [Friday Lecture Handout](https://drive.google.com/file/d/1zpQTw3SxBDeytTgrKyObpDWqZ0soPinQ/view?usp=drive_link)
+## Homework 4 - Due 11:59 PM Wednesday, July 30 (Assignment on Canvas)
+
+## Week 4 Course Materials
+
+- Lecture Slides
+  - [EM in HMMs](https://drive.google.com/file/d/1QWzx_aBaYUe9v3A5iyVfJ0SAuGYolHcF/view?usp=sharing)
+  - [EM Special Cases](https://drive.google.com/file/d/1x18FWhS8fjentuebv7ZOi9PPYL27e1-5/view?usp=sharing)
+  - [MDPs](#)
+- Notebooks (Note if imports are used you will need to upload that python script that is imported)
+  - TBA
+- Worksheets
+  - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
+## Week 4 Discussion
+- Discussion Slides
+  - TBA
+- Discussion Notebooks
+  - TBA
+The participation due date will be during discussion.
