@@ -2,7 +2,7 @@
 
 ## Homework 4 - Due 11:59 PM Wednesday, July 30 (Assignment on Canvas)
 
-## Week 4 Course Materials
+## Week 5 Course Materials
 
 - Lecture Slides
   - [EM in HMMs](https://drive.google.com/file/d/1QWzx_aBaYUe9v3A5iyVfJ0SAuGYolHcF/view?usp=sharing)
@@ -12,7 +12,7 @@
   - TBA
 - Worksheets
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
-## Week 4 Discussion
+## Week 5 Discussion
 - Discussion Slides
   - TBA
 - Discussion Notebooks
