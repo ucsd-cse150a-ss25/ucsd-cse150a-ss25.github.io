@@ -14,8 +14,9 @@
 - Worksheets
   - [Blank Worksheet](https://drive.google.com/file/d/1on4yX50nhL2lD7cg5OxilE343GEEJR6J/view?usp=sharing)
 ## Week 5 Discussion
-- Discussion Slides
-  - TBA
+- Discussion Recording
+  - [Podcast](https://canvas.ucsd.edu/courses/66995/external_tools/5826)
+  - Look for the video titled "Discussion 5 - 30th July 2025" under Media Gallery
 - Discussion Notebooks
-  - TBA
-The participation due date will be during discussion.
+  - [SA Review](https://colab.research.google.com/drive/16Lfo3h_mGx9EMrhD5n-Pofnl9vS9a5ER?usp=sharing)
+  - Check Gradescope for the participation due date for this discussion.
