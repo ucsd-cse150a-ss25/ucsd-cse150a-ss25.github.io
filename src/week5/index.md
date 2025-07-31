@@ -16,7 +16,8 @@
 ## Week 5 Discussion
 - Discussion Recording
   - [Podcast](https://canvas.ucsd.edu/courses/66995/external_tools/5826)
-  - Look for the video titled "Discussion 5 - 30th July 2025" under Media Gallery
+  - Look for the video titled "Discussion 5 - July 31st 2025 - CSE 150A - DI [A01]" under Media Gallery
 - Discussion Notebooks
   - [SA Review](https://colab.research.google.com/drive/16Lfo3h_mGx9EMrhD5n-Pofnl9vS9a5ER?usp=sharing)
+  - Upload the PDF of the notebook to the assignment titled "Week 5 Fri Participation (8/1)" on Gradescope for participation.
   - Check Gradescope for the participation due date for this discussion.
